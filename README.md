@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I’m Hamizah Yusuf — a web application developer based in Malaysia. I enjoy building clean, functional systems and exploring digital solutions that improve real-world processes.<br><br>🌱 Currently learning: Advanced Laravel, Docker workflows<br>💻 Tech Stack: PHP · Laravel · MySQL · HTML/CSS · Git · Docker
+Hi, I’m Hamizah Yusuf! A web application developer based in Malaysia. I enjoy building clean, functional systems and exploring digital solutions that improve real-world processes.
+<br><br>🌱 Currently learning: Advanced Laravel, Docker workflows
+<br>💻 Tech Stack: PHP · Laravel · MySQL · HTML/CSS · Git · Docker
 
 <br>
 
